@@ -1,0 +1,214 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 25 Jun 2025 00:30:26 at https://shakir.local/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://shakir.local/ -O1 "D:\website\nmpc-v2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:30:58	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/xmlrpc.php?rsd (from https://shakir.local/)
+00:31:02	Error: 	"Not Found" (404) at link https://shakir.local/nmpctrust@gmail.com (from https://shakir.local/)
+00:32:08	Warning: 	Moved Permanently for https://shakir.local/home/dress-2/
+00:32:08	Warning: 	Warning moved treated for https://shakir.local/home/dress-2/ (real one is https://shakir.local/wp-content/uploads/2020/05/dress-1.jpg)
+00:32:08	Warning: 	Moved Permanently for https://shakir.local/home/medic/
+00:32:08	Warning: 	Warning moved treated for https://shakir.local/home/medic/ (real one is https://shakir.local/wp-content/uploads/2020/05/medic.jpg)
+00:32:08	Warning: 	Moved Permanently for https://shakir.local/home/rice/
+00:32:08	Warning: 	Warning moved treated for https://shakir.local/home/rice/ (real one is https://shakir.local/wp-content/uploads/2020/05/rice.jpg)
+00:32:08	Warning: 	Moved Permanently for https://shakir.local/home/slipers/
+00:32:08	Warning: 	Warning moved treated for https://shakir.local/home/slipers/ (real one is https://shakir.local/wp-content/uploads/2020/05/slipers.jpg)
+00:32:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1 (from https://shakir.local/)
+00:32:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/themes/apex-business/assets/fonts/fontawesome-webfont.eot? (from https://shakir.local/wp-content/themes/apex-business/assets/css/font-awesome.min.css?ver=4.7.0)
+00:32:14	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/05/ammamma.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-7.css?ver=1632248990)
+00:32:15	Error: 	"Not Found" (404) at link https://shakir.local/thumb/ (from https://shakir.local/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.62)
+00:32:15	Error: 	"Not Found" (404) at link https://shakir.local/.original/ (from https://shakir.local/wp-content/plugins/photo-gallery/js/scripts.min.js?ver=1.5.62)
+00:32:15	Error: 	"Not Found" (404) at link https://shakir.local/ml/home-2/nmpctrust@gmail.com (from https://shakir.local/ml/home-2/)
+00:32:32	Warning: 	Moved Permanently for https://shakir.local/?p=356
+00:32:32	Warning: 	File has moved from https://shakir.local/?p=356 to https://shakir.local/about-us/
+00:32:32	Error: 	"Not Found" (404) at link https://shakir.local/about-us/nmpctrust@gmail.com (from https://shakir.local/about-us/)
+00:32:34	Warning: 	Moved Permanently for https://shakir.local/?p=357
+00:32:34	Warning: 	File has moved from https://shakir.local/?p=357 to https://shakir.local/services/
+00:32:34	Error: 	"Not Found" (404) at link https://shakir.local/services/nmpctrust@gmail.com (from https://shakir.local/services/)
+00:32:34	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home/ not scanned (follow robots meta tag)
+00:32:34	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-2-3-2-18/ not scanned (follow robots meta tag)
+00:32:35	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-3/ not scanned (follow robots meta tag)
+00:32:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/2020/01/hands-people-friends-communication-45842.jpg (from https://shakir.local/services/)
+00:32:35	Warning: 	Link https://shakir.local/bwg_gallery/protection-of-families-who-are-facing-mental-illness/ not scanned (follow robots meta tag)
+00:32:35	Warning: 	Link https://shakir.local/bwg_gallery/protection-for-aged-couples/ not scanned (follow robots meta tag)
+00:32:35	Warning: 	Link https://shakir.local/bwg_gallery/protection-of-mothers-at-their-own-home/ not scanned (follow robots meta tag)
+00:32:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/2020/07/IMG_7058.jpg (from https://shakir.local/services/)
+00:32:35	Warning: 	Link https://shakir.local/bwg_gallery/self-employment-programs/ not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-2-3-2-8/ not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-2-3-2-16/ not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-2-3/ not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/wp-admin/upgrade.php?_wp_http_referer=%2Fwp-admin%2Fadmin.php%3Fpage%3Dgalleries_bwg not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-2-3-2-22/ not scanned (follow robots meta tag)
+00:32:36	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2-2-3-2-5/ not scanned (follow robots meta tag)
+00:32:37	Warning: 	Link https://shakir.local/bwg_gallery/old-age-home-2-3-2/ not scanned (follow robots meta tag)
+00:32:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/elementor/css/post-423.css?ver=1632250735 (from https://shakir.local/photo-gallery/)
+00:32:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-json/wp/v2/pages/423 (from https://shakir.local/photo-gallery/)
+00:32:37	Warning: 	Moved Permanently for https://shakir.local/?p=423
+00:32:37	Warning: 	File has moved from https://shakir.local/?p=423 to https://shakir.local/photo-gallery/
+00:32:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshakir.local%2Fphoto-gallery%2F (from https://shakir.local/photo-gallery/)
+00:32:37	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fshakir.local%2Fphoto-gallery%2F&format=xml (from https://shakir.local/photo-gallery/)
+00:32:37	Error: 	"Not Found" (404) at link https://shakir.local/photo-gallery/nmpctrust@gmail.com (from https://shakir.local/photo-gallery/)
+00:33:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=19 (from https://shakir.local/photo-gallery/)
+00:33:14	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=4 (from https://shakir.local/photo-gallery/)
+00:33:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/IMG_1466.jpg?bwg=1592634288 (from https://shakir.local/photo-gallery/)
+00:33:33	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/elementor/css/post-682.css?ver=1632284817 (from https://shakir.local/video-gallery/)
+00:33:33	Warning: 	Moved Permanently for https://shakir.local/?p=682
+00:33:33	Warning: 	File has moved from https://shakir.local/?p=682 to https://shakir.local/video-gallery/
+00:33:33	Error: 	"Not Found" (404) at link https://shakir.local/video-gallery/nmpctrust@gmail.com (from https://shakir.local/video-gallery/)
+00:33:35	Warning: 	Moved Permanently for https://shakir.local/?p=783
+00:33:35	Warning: 	File has moved from https://shakir.local/?p=783 to https://shakir.local/newspaper-articles/
+00:33:35	Error: 	"Not Found" (404) at link https://shakir.local/newspaper-articles/nmpctrust@gmail.com (from https://shakir.local/newspaper-articles/)
+00:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/paper_cut_02-05.jpg?bwg=1594480434 (from https://shakir.local/newspaper-articles/)
+00:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/paper_cut_02-02.jpg?bwg=1594480434 (from https://shakir.local/newspaper-articles/)
+00:33:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/paper_cut_01-18.jpg?bwg=1594480434 (from https://shakir.local/newspaper-articles/)
+00:33:39	Warning: 	Moved Permanently for https://shakir.local/?p=349
+00:33:39	Warning: 	File has moved from https://shakir.local/?p=349 to https://shakir.local/contact/
+00:33:39	Error: 	"Not Found" (404) at link https://shakir.local/contact/nmpctrust@gmail.com (from https://shakir.local/contact/)
+00:33:39	Error: 	"Not Found" (404) at link https://shakir.local/blog/nmpctrust@gmail.com (from https://shakir.local/blog/)
+00:33:39	Error: 	"Error when decompressing" (-1) at link https://shakir.local/2വർഷത്തെ-ചികിത്സക്ക്-ശേഷo/ (from https://shakir.local/blog/)
+00:33:40	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ആരോരുമില്ലാത്ത-63കാരനായ-വ/ (from https://shakir.local/blog/)
+00:33:40	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ന്യൂ-മലബാർ-പുനരധിവാസകേന്/ (from https://shakir.local/blog/)
+00:33:42	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ചാക്കോ-മാഷിന്റെ-punaradhivasa-kendram-by-jincy-jingle/ (from https://shakir.local/blog/)
+00:33:42	Error: 	"Error when decompressing" (-1) at link https://shakir.local/വയോജനങ്ങൾക്കായി-മെഡിക്-2/ (from https://shakir.local/blog/)
+00:33:43	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/2021/01/blood-camp.jpg (from https://shakir.local/blog/)
+00:33:43	Error: 	"Error when decompressing" (-1) at link https://shakir.local/മലപ്പച്ചേരിയിലെ-മലബാര്‍/ (from https://shakir.local/blog/)
+00:33:51	Warning: 	Moved Permanently for https://shakir.local/?p=422
+00:33:51	Warning: 	File has moved from https://shakir.local/?p=422 to https://shakir.local/downloads/
+00:33:51	Error: 	"Not Found" (404) at link https://shakir.local/downloads/nmpctrust@gmail.com (from https://shakir.local/downloads/)
+00:33:51	Warning: 	Moved Permanently for https://shakir.local/?p=395
+00:33:51	Warning: 	File has moved from https://shakir.local/?p=395 to https://shakir.local/donate/
+00:33:51	Error: 	"Not Found" (404) at link https://shakir.local/donate/nmpctrust@gmail.com (from https://shakir.local/donate/)
+00:33:51	Warning: 	Moved Permanently for https://shakir.local/home/dress/
+00:33:51	Warning: 	Warning moved treated for https://shakir.local/home/dress/ (real one is https://shakir.local/wp-content/uploads/2020/05/dress.jpg)
+00:33:51	Warning: 	Moved Permanently for https://shakir.local/diapers/
+00:33:51	Warning: 	Warning moved treated for https://shakir.local/diapers/ (real one is https://shakir.local/wp-content/uploads/2020/05/diapers.jpg)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/Trident/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/Edge/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Error: 	"Not Found" (404) at link https://shakir.local/Gecko/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Error: 	"Not Found" (404) at link https://shakir.local/Firefox/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Error: 	"Not Found" (404) at link https://shakir.local/Version/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/version/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/elementor/css/post-914.css?ver=1632248954 (from https://shakir.local/ml/about-us-2/)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-json/wp/v2/pages/914 (from https://shakir.local/ml/about-us-2/)
+00:33:54	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/?p=914 (from https://shakir.local/ml/about-us-2/)
+00:33:58	Error: 	"Not Found" (404) at link https://shakir.local/ml/about-us-2/nmpctrust@gmail.com (from https://shakir.local/ml/about-us-2/)
+00:33:58	Warning: 	Moved Permanently for https://shakir.local/?p=918
+00:33:58	Warning: 	File has moved from https://shakir.local/?p=918 to https://shakir.local/ml/services-2/
+00:33:58	Error: 	"Not Found" (404) at link https://shakir.local/ml/services-2/nmpctrust@gmail.com (from https://shakir.local/ml/services-2/)
+00:33:58	Warning: 	Moved Permanently for https://shakir.local/?p=948
+00:33:58	Warning: 	File has moved from https://shakir.local/?p=948 to https://shakir.local/ml/downloads-2/
+00:33:58	Error: 	"Not Found" (404) at link https://shakir.local/ml/downloads-2/nmpctrust@gmail.com (from https://shakir.local/ml/downloads-2/)
+00:33:58	Warning: 	Moved Permanently for https://shakir.local/?p=947
+00:33:58	Warning: 	File has moved from https://shakir.local/?p=947 to https://shakir.local/ml/contact-us/
+00:33:58	Error: 	"Not Found" (404) at link https://shakir.local/ml/contact-us/nmpctrust@gmail.com (from https://shakir.local/ml/contact-us/)
+00:33:58	Error: 	"Not Found" (404) at link https://shakir.local/ml/blog-2/nmpctrust@gmail.com (from https://shakir.local/ml/blog-2/)
+00:33:58	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/2വർഷത്തെ-ചികിത്സക്ക്-ശേഷo-2/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/ആരോരുമില്ലാത്ത-63കാരനായ-വ-2/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/ന്യൂ-മലബാർ-പുനരധിവാസകേന-2/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/മാര്‍ച്ച്-8-അന്താരാഷ്ട്ര/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/വയോജനങ്ങൾക്കായി-മെഡിക്ക/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/രക്ത-പരിശോധന-ക്യാമ്പ്-നട/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/മറക്കാനാവാത്ത-ട്രെയിൻ-യാ/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/ഗൗരി-അന്തർജ്ജനം-ഇനി-സ്വന/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/വീൽചെയർ-നൽകി/ (from https://shakir.local/ml/blog-2/)
+00:33:59	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/രാജുവിന്-കാഴ്ചയായി-nmpc-trust/ (from https://shakir.local/ml/blog-2/)
+00:34:00	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/05/mm-chacko.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-356.css?ver=1632248953)
+00:34:04	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/06/IMG_1480-1-min-1-scaled.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-357.css?ver=1632287223)
+00:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/2020/01/hands-people-friends-communication-45842.jpg (from https://shakir.local/services/)
+00:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/2020/07/IMG_7058.jpg (from https://shakir.local/services/)
+00:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/elementor/css/post-423.css?ver=1632250735 (from https://shakir.local/photo-gallery/)
+00:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/IMG_1487.jpg?bwg=1592586376 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=1)
+00:34:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/IMG_1483.jpg?bwg=1592586376 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=1)
+00:34:05	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/IMG_1483.jpg?bwg=1592586376 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=1)
+00:34:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/IMG-20200202-WA0034.jpg?bwg=1592586376 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=1)
+00:34:06	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/sss.jpg?bwg=1592635559 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=14)
+00:34:07	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-content/uploads/photo-gallery/thumb/IMG_1474.jpg?bwg=1592634772 (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=10)
+00:34:12	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/06/DSC_2385.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-783.css?ver=1632253107)
+00:34:12	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/05/001.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-349.css?ver=1632281172)
+00:34:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/author/admin/feed/ (from https://shakir.local/author/admin/)
+00:34:12	Error: 	"Not Found" (404) at link https://shakir.local/wp-json/wp/v2/users/1 (from https://shakir.local/author/admin/)
+00:34:12	Error: 	"Not Found" (404) at link https://shakir.local/author/admin/nmpctrust@gmail.com (from https://shakir.local/author/admin/)
+00:34:13	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/wp-json/wp/v2/posts/1080 (from https://shakir.local/march-8-international-womens-day/)
+00:34:13	Warning: 	Moved Permanently for https://shakir.local/?p=1080
+00:34:13	Warning: 	File has moved from https://shakir.local/?p=1080 to https://shakir.local/march-8-international-womens-day/
+00:34:13	Error: 	"Not Found" (404) at link https://shakir.local/march-8-international-womens-day/nmpctrust@gmail.com (from https://shakir.local/march-8-international-womens-day/)
+00:34:13	Warning: 	Moved Permanently for https://shakir.local/?p=1058
+00:34:13	Warning: 	File has moved from https://shakir.local/?p=1058 to https://shakir.local/organised-blood-donation-camp/
+00:34:13	Error: 	"Not Found" (404) at link https://shakir.local/organised-blood-donation-camp/nmpctrust@gmail.com (from https://shakir.local/organised-blood-donation-camp/)
+00:34:13	Warning: 	Moved Permanently for https://shakir.local/?p=843
+00:34:13	Warning: 	File has moved from https://shakir.local/?p=843 to https://shakir.local/unforgettable-train-journey/
+00:34:13	Error: 	"Not Found" (404) at link https://shakir.local/unforgettable-train-journey/nmpctrust@gmail.com (from https://shakir.local/unforgettable-train-journey/)
+00:34:13	Warning: 	Moved Permanently for https://shakir.local/?p=867
+00:34:13	Warning: 	File has moved from https://shakir.local/?p=867 to https://shakir.local/gouri-antharjanam-leaves-nmpc-trusts-to-her-family/
+00:34:13	Error: 	"Not Found" (404) at link https://shakir.local/gouri-antharjanam-leaves-nmpc-trusts-to-her-family/nmpctrust@gmail.com (from https://shakir.local/gouri-antharjanam-leaves-nmpc-trusts-to-her-family/)
+00:34:15	Error: 	"Not Found" (404) at link https://shakir.local/blog/page/2/nmpctrust@gmail.com (from https://shakir.local/blog/page/2/)
+00:34:18	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/person-with-critical-condition-at-the-bus-stop-was-taken-to-nmpc-trust/ (from https://shakir.local/blog/page/2/)
+00:34:22	Warning: 	Moved Permanently for https://shakir.local/blog/page/1/
+00:34:22	Warning: 	File has moved from https://shakir.local/blog/page/1/ to https://shakir.local/blog/
+00:34:22	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/06/IMG_7725.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-422.css?ver=1632299252)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ajax-loader.gif (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/fonts/slick.eot (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/fonts/slick.eot? (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/fonts/slick.woff (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/fonts/slick.ttf (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/fonts/slick.svg (from https://shakir.local/wp-content/plugins/elegant-addons-for-elementor/assets/frontend/css/ct-style.css?ver=1.0.1)
+00:34:22	Error: 	"Not Found" (404) at link https://shakir.local/Trident/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/Edge/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/version/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:34:22	Warning: 	Moved Permanently for https://shakir.local/?p=914
+00:34:22	Warning: 	File has moved from https://shakir.local/?p=914 to https://shakir.local/ml/about-us-2/
+00:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/author/admin/feed/ (from https://shakir.local/ml/author/admin/)
+00:34:22	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/author/admin/nmpctrust@gmail.com (from https://shakir.local/ml/author/admin/)
+00:34:26	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/author/admin/page/2/ (from https://shakir.local/ml/author/admin/)
+00:34:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/blog-2/page/2/nmpctrust@gmail.com (from https://shakir.local/ml/blog-2/page/2/)
+00:34:27	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/തെരുവിൽ-അലഞ്ഞുനടക്കുന്ന/ (from https://shakir.local/ml/blog-2/page/2/)
+00:34:27	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/ബസ്റ്റോപ്പിൽ-അവശനാണ്യനി/ (from https://shakir.local/ml/blog-2/page/2/)
+00:34:27	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/മുത്തു-പുതിയ-ജീവിതത്തിലേ/ (from https://shakir.local/ml/blog-2/page/2/)
+00:34:27	Error: 	"Error when decompressing" (-1) at link https://shakir.local/ml/അതിരാ-ഉമ്മ-കുടുംബവുമായി/ (from https://shakir.local/ml/blog-2/page/2/)
+00:34:27	Warning: 	Moved Permanently for https://shakir.local/ml/blog-2/page/1/
+00:34:27	Warning: 	File has moved from https://shakir.local/ml/blog-2/page/1/ to https://shakir.local/ml/blog-2/
+00:34:27	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://shakir.local/wp-content/uploads/2020/07/IMG_7058.jpg (from https://shakir.local/services/)
+00:34:27	Error: 	"Forbidden" (403) at link https://nmpctrust.com/wp-content/uploads/2020/06/DSC_2400.jpg (from https://shakir.local/wp-content/uploads/elementor/css/post-682.css?ver=1632284817)
+00:34:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/author/admin/feed/ (from https://shakir.local/author/admin/)
+00:34:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/author/admin/page/2/nmpctrust@gmail.com (from https://shakir.local/author/admin/page/2/)
+00:34:27	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/author/admin/page/1/ (from https://shakir.local/author/admin/page/2/)
+00:34:27	Warning: 	Moved Permanently for https://shakir.local/?p=860
+00:34:27	Warning: 	File has moved from https://shakir.local/?p=860 to https://shakir.local/wheelchair-provided/
+00:34:28	Error: 	"Not Found" (404) at link https://shakir.local/wheelchair-provided/nmpctrust@gmail.com (from https://shakir.local/wheelchair-provided/)
+00:34:28	Warning: 	Moved Permanently for https://shakir.local/?p=857
+00:34:28	Warning: 	File has moved from https://shakir.local/?p=857 to https://shakir.local/nmpc-trust-as-vision-to-raju/
+00:34:28	Error: 	"Not Found" (404) at link https://shakir.local/nmpc-trust-as-vision-to-raju/nmpctrust@gmail.com (from https://shakir.local/nmpc-trust-as-vision-to-raju/)
+00:34:28	Warning: 	Moved Permanently for https://shakir.local/?p=854
+00:34:28	Warning: 	File has moved from https://shakir.local/?p=854 to https://shakir.local/nmpc-trust-undertaken-woman-wandering-the-streets/
+00:34:28	Error: 	"Not Found" (404) at link https://shakir.local/nmpc-trust-undertaken-woman-wandering-the-streets/nmpctrust@gmail.com (from https://shakir.local/nmpc-trust-undertaken-woman-wandering-the-streets/)
+00:34:30	Warning: 	Moved Permanently for https://shakir.local/?p=847
+00:34:30	Warning: 	File has moved from https://shakir.local/?p=847 to https://shakir.local/muthu-into-a-new-life/
+00:34:30	Error: 	"Not Found" (404) at link https://shakir.local/muthu-into-a-new-life/nmpctrust@gmail.com (from https://shakir.local/muthu-into-a-new-life/)
+00:34:30	Warning: 	Moved Permanently for https://shakir.local/?p=840
+00:34:30	Warning: 	File has moved from https://shakir.local/?p=840 to https://shakir.local/athira-amma-reunited-with-her-family/
+00:34:30	Error: 	"Not Found" (404) at link https://shakir.local/athira-amma-reunited-with-her-family/nmpctrust@gmail.com (from https://shakir.local/athira-amma-reunited-with-her-family/)
+00:34:30	Error: 	"Not Found" (404) at link https://shakir.local/Edge/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:34:30	Error: 	"Not Found" (404) at link https://shakir.local/version/ (from https://shakir.local/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6)
+00:34:30	Error: 	"Not Found" (404) at link https://shakir.local/ml/author/admin/nmpctrust@gmail.com (from https://shakir.local/ml/author/admin/)
+00:34:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/author/admin/page/2/ (from https://shakir.local/ml/author/admin/)
+00:34:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/ml/blog-2/page/2/nmpctrust@gmail.com (from https://shakir.local/ml/blog-2/page/2/)
+00:34:30	Warning: 	Retry after error -4 (No data (connection closed)) at link https://shakir.local/photo-gallery/donate (from https://shakir.local/photo-gallery/?type_0=gallery&album_gallery_id_0=18&page_number_0=1)
+00:34:31	Error: 	"No data (connection closed)" (-4) after 2 retries at link https://shakir.local/author/admin/feed/ (from https://shakir.local/author/admin/)
+00:34:31	Error: 	"Not Found" (404) at link https://shakir.local/author/admin/page/2/nmpctrust@gmail.com (from https://shakir.local/author/admin/page/2/)
+00:34:31	Warning: 	Moved Permanently for https://shakir.local/author/admin/page/1/
+00:34:31	Warning: 	File has moved from https://shakir.local/author/admin/page/1/ to https://shakir.local/author/admin/
+00:34:31	Warning: 	Moved Permanently for https://shakir.local/?p=850
+00:34:31	Warning: 	File has moved from https://shakir.local/?p=850 to https://shakir.local/person-with-critical-condition-at-the-bus-stop-was-taken-to-nmpc-trust/
+00:34:31	Error: 	"Not Found" (404) at link https://shakir.local/person-with-critical-condition-at-the-bus-stop-was-taken-to-nmpc-trust/nmpctrust@gmail.com (from https://shakir.local/person-with-critical-condition-at-the-bus-stop-was-taken-to-nmpc-trust/)
+00:34:32	Error: 	"Not Found" (404) at link https://shakir.local/ml/blog-2/page/2/nmpctrust@gmail.com (from https://shakir.local/ml/blog-2/page/2/)
+00:34:32	Warning: 	Moved Permanently for https://shakir.local/photo-gallery/donate
+00:34:32	Warning: 	File has moved from https://shakir.local/photo-gallery/donate to https://shakir.local/donate/
+00:34:32	Error: 	"Not Found" (404) at link https://shakir.local/ml/author/admin/page/2/nmpctrust@gmail.com (from https://shakir.local/ml/author/admin/page/2/)
+00:34:33	Warning: 	Moved Permanently for https://shakir.local/ml/author/admin/page/1/
+00:34:33	Warning: 	File has moved from https://shakir.local/ml/author/admin/page/1/ to https://shakir.local/ml/author/admin/
+
+HTTrack Website Copier/3.49-2 mirror complete in 4 minutes 7 seconds : 798 links scanned, 641 files written (83874002 bytes overall) [75515573 bytes received at 305731 bytes/sec], 14983016 bytes transferred using HTTP compression in 314 files, ratio 25%, 9.4 requests per connection
+(76 errors, 127 warnings, 0 messages)

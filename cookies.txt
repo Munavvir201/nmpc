@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+shakir.local	TRUE	/	FALSE	1999999999	PHPSESSID	f894f8051b60731cbd12f6869becbae3
+shakir.local	TRUE	/	FALSE	1999999999	pll_language	ml
+
